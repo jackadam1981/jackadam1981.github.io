@@ -1,0 +1,763 @@
+#EXTM3U
+#EXTINF:-1, group-title="中央频道", CCTV-1
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+#EXTINF:-1, group-title="中央频道", CCTV-2
+http://223.110.241.204:6610/gitv/live1/G_CCTV-2/G_CCTV-2/
+#EXTINF:-1, group-title="中央频道", CCTV-3
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226992/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-6
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-9
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-01
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
+#EXTINF:-1, group-title="中央频道", CCTV-02
+http://112.50.243.10/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-08
+http://ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-10
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-11
+http://223.110.241.204:6610/gitv/live1/CCTV-11/CCTV-11/
+#EXTINF:-1, group-title="中央频道", CCTV-14
+http://223.110.241.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+#EXTINF:-1, group-title="中央频道", CCTV-15
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1, group-title="地方频道", 内蒙古
+http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
+#EXTINF:-1, group-title="地方频道", 黑龙江
+http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ/
+#EXTINF:-1, group-title="地方频道", 凤凰中文
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1, group-title="地方频道", 凤凰资讯
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1, group-title="地方频道", 北京文艺
+http://ivi.bupt.edu.cn/hls/btv2.m3u8
+#EXTINF:-1, group-title="地方频道", 北京新闻
+http://ivi.bupt.edu.cn/hls/btv9.m3u8
+#EXTINF:-1, group-title="地方频道", 北京生活
+http://ivi.bupt.edu.cn/hls/btv7.m3u8
+#EXTINF:-1, group-title="地方频道", 北京科教
+http://ivi.bupt.edu.cn/hls/btv3.m3u8
+#EXTINF:-1, group-title="地方频道", 北京纪实
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1, group-title="地方频道", 北京青年
+http://ivi.bupt.edu.cn/hls/btv8.m3u8
+#EXTINF:-1, group-title="地方频道", 四川卫视
+http://223.110.241.204:6610/gitv/live1/SCWS/SCWS/
+#EXTINF:-1, group-title="地方频道", 天津卫视
+http://223.110.245.170/PLTV/3/224/3221225562/index.m3u8
+#EXTINF:-1, group-title="地方频道", 宁夏卫视
+http://223.110.241.204:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
+#EXTINF:-1, group-title="地方频道", 安徽卫视
+http://223.110.241.204:6610/gitv/live1/AHWS/AHWS/
+#EXTINF:-1, group-title="地方频道", 广东卫视
+http://223.110.245.170/PLTV/3/224/3221225592/index.m3u8
+#EXTINF:-1, group-title="地方频道", 广西卫视
+http://223.110.241.204:6610/gitv/live1/GXWS/GXWS/
+#EXTINF:-1, group-title="地方频道", 新疆卫视
+http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
+#EXTINF:-1, group-title="地方频道", 江苏卫视
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225958/index.m3u8
+#EXTINF:-1, group-title="地方频道", 江苏城市
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
+#EXTINF:-1, group-title="地方频道", 江苏教育
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+#EXTINF:-1, group-title="地方频道", 江西卫视
+http://223.110.241.204:6610/gitv/live1/JXWS/JXWS/
+#EXTINF:-1, group-title="地方频道", 河北卫视
+http://223.110.241.204:6610/gitv/live1/G_HEBEI/G_HEBEI/
+#EXTINF:-1, group-title="地方频道", 河南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
+#EXTINF:-1, group-title="地方频道", 浙江卫视
+http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/
+#EXTINF:-1, group-title="地方频道", 湖南卫视
+http://223.110.241.204:6610/gitv/live1/G_HUNAN/G_HUNAN/
+#EXTINF:-1, group-title="地方频道", 甘肃卫视
+http://223.110.241.204:6610/gitv/live1/G_GANSU/G_GANSU/
+#EXTINF:-1, group-title="地方频道", 福建卫视
+http://223.110.241.204:6610/gitv/live1/DNWS/DNWS/
+#EXTINF:-1, group-title="地方频道", 贵州卫视
+http://223.110.241.204:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
+#EXTINF:-1, group-title="地方频道", 辽宁卫视
+http://223.110.241.204:6610/gitv/live1/G_LIAONING-HQ/G_LIAONING-HQ/
+#EXTINF:-1, group-title="地方频道", 重庆卫视
+http://223.110.241.204:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
+#EXTINF:-1, group-title="地方频道", 青海卫视
+http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
+#EXTINF:-1, group-title="地方频道", 香港女神
+http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="地方频道", 香港电影
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1, group-title="地方频道", 上海ICS
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225972/3.m3u8
+#EXTINF:-1, group-title="地方频道", 内蒙古卫视
+http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1, group-title="地方频道", 黑龙江卫视
+http://ivi.bupt.edu.cn/hls/hljtv.m3u8
+#EXTINF:-1, group-title="地方频道", 天津卫视高清
+http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8
+#EXTINF:-1, group-title="地方频道", 安徽卫视高清
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1, group-title="地方频道", 山东卫视高清
+http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8
+#EXTINF:-1, group-title="地方频道", 广东卫视高清
+http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
+#EXTINF:-1, group-title="地方频道", 江苏休闲体育
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
+#EXTINF:-1, group-title="地方频道", 河北卫视高清
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1, group-title="地方频道", 浙江卫视高清
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1, group-title="地方频道", 湖北卫视高清
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1, group-title="地方频道", 湖南卫视高清
+http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
+#EXTINF:-1, group-title="地方频道", 香港有线新闻
+http://cloud-play.hhalloy.com/live/d6d6eab225f541869b2657861f0e94d6.m3u8
+#EXTINF:-1, group-title="地方频道", 香港电影频道
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1, group-title="地方频道", 三立台湾台[]
+http://cloud-play.hhalloy.com/live/e71635b53bb874a085b2a469802bbc81.m3u8
+#EXTINF:-1, group-title="地方频道", 霹雳台湾台[]
+http://cloud-play.hhalloy.com/live/14b736ee363e84918a8c43c69691faaa.m3u8
+#EXTINF:-1, group-title="地方频道", 黑龙江卫视高清
+http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
+#EXTINF:-1, group-title="地方频道", 香港有线电视603
+http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.m3u8
+#EXTINF:-1, group-title="地方频道", 开心鬼
+http://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1, group-title="地方频道", 徐州1
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1, group-title="地方频道", 徐州2
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1, group-title="地方频道", 徐州3
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1, group-title="地方频道", 东方财经
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226033/index.m3u8
+#EXTINF:-1, group-title="地方频道", 南京教科
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
+#EXTINF:-1, group-title="地方频道", 厦门卫视
+http://223.110.241.204:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
+#EXTINF:-1, group-title="地方频道", 宿迁公共
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226939/index.m3u8
+#EXTINF:-1, group-title="地方频道", 徐州贾汪旅游
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227389/index.m3u8
+#EXTINF:-1, group-title="地方频道", 深圳卫视高清
+http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
+#EXTINF:-1, group-title="其他频道", FX
+http://cloud-play.hhalloy.com/live/245532ab74af9be852014a93e292f690.m3u8
+#EXTINF:-1, group-title="其他频道", 亮剑
+http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 徐峥
+https://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 热舞
+http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 爽片
+http://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 篮球
+http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU/
+#EXTINF:-1, group-title="其他频道", 邗江
+http://223.110.245.139:80/PLTV/4/224/3221227154/index.m3u8
+#EXTINF:-1, group-title="其他频道", 黄渤
+https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", AXN
+http://cloud-play.hhalloy.com/live/c762110b3eef8bcccce5863643dd66aa.m3u8
+#EXTINF:-1, group-title="其他频道", ETV
+http://223.110.245.170/PLTV/3/224/3221225614/index.m3u8
+#EXTINF:-1, group-title="其他频道", FOX
+http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.m3u8
+#EXTINF:-1, group-title="其他频道", HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1, group-title="其他频道", MTV
+http://218.202.220.2:5000/nn_live.m3u8?id=MTV
+#EXTINF:-1, group-title="其他频道", TVN
+http://cloud-play.hhalloy.com/live/060e39b20b7616170ba4ba63c53bc336.m3u8
+#EXTINF:-1, group-title="其他频道", Z频道
+http://cloud-play.hhalloy.com/live/30a7edb2f6c42bd079dd4910806decde.m3u8
+#EXTINF:-1, group-title="其他频道", 全纪实
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226014/index.m3u8
+#EXTINF:-1, group-title="其他频道", 公视2
+http://cloud-play.hhalloy.com/live/236c80ba515e5bf302f3db6f4d009914.m3u8
+#EXTINF:-1, group-title="其他频道", 刘德华
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 古天乐
+http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
+#EXTINF:-1, group-title="其他频道", 古惑仔
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 周润发
+http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 壹电影
+http://cloud-play.hhalloy.com/live/eb53b692ccbe8c836bc20be6734a9555.m3u8
+#EXTINF:-1, group-title="其他频道", 壹综合
+http://cloud-play.hhalloy.com/live/3cec0560564363facfd892d88b741c62.m3u8
+#EXTINF:-1, group-title="其他频道", 大宅门
+http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 幸福彩
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227447/index.m3u8
+#EXTINF:-1, group-title="其他频道", 新娱乐
+http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227021/index.m3u8
+#EXTINF:-1, group-title="其他频道", 李小龙
+http://aldirect.hls.huya.com/huyalive/94525224-2469517548-10606497105558110208-2847699176-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 李连杰
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 林正英
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 洪金宝
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 甄子丹
+http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+#EXTINF:-1, group-title="其他频道", 老故事
+http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
+#EXTINF:-1, group-title="其他频道", 高尔夫
+http://nclive.grtn.cn/grfpd/sd/live.m3u8
+#EXTINF:-1, group-title="其他频道", CGTN
+http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+#EXTINF:-1, group-title="其他频道", CNEX
+http://cloud-play.hhalloy.com/live/a079e0f13033fc06d42cd0e9e40913ee.m3u8
+#EXTINF:-1, group-title="其他频道", CN卡通
+http://cloud-play.hhalloy.com/live/c865782e4a131efe17651165835ca37e.m3u8
+#EXTINF:-1, group-title="其他频道", DIVA
+http://cloud-play.hhalloy.com/live/2ff14655a982c6d2be2a8b0c5649d257.m3u8
+#EXTINF:-1, group-title="其他频道", DWTV
+http://cloud-play.hhalloy.com/live/a4aa25e01a432729323f4d0778605887.m3u8
+#EXTINF:-1, group-title="其他频道", TVS2
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1, group-title="其他频道", 三立戏剧
+http://cloud-play.hhalloy.com/live/bdc9e5f7487003c20223fd67f25c7ee7.m3u8
+#EXTINF:-1, group-title="其他频道", 三立综合
+http://cloud-play.hhalloy.com/live/16eda25701fe842c519d881c68829ead.m3u8
+#EXTINF:-1, group-title="其他频道", 东南卫视
+http://ivi.bupt.edu.cn/hls/dntv.m3u8
+#EXTINF:-1, group-title="其他频道", 丧尸电影
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 中国交通
+http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
+#EXTINF:-1, group-title="其他频道", 中天综合
+http://cloud-play.hhalloy.com/live/64ce4daa355bd6784904e72fabb7fa3e.m3u8
+#EXTINF:-1, group-title="其他频道", 中视[]
+http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.m3u8
+#EXTINF:-1, group-title="其他频道", 中视经典
+http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.m3u8
+#EXTINF:-1, group-title="其他频道", 五星体育
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
+#EXTINF:-1, group-title="其他频道", 亚洲综合
+http://cloud-play.hhalloy.com/live/8e08d22adcc7748ceedc31006b55f7de.m3u8
+#EXTINF:-1, group-title="其他频道", 亚洲美食
+http://cloud-play.hhalloy.com/live/13e17ff9d96096b87e7902d77452ae76.m3u8
+#EXTINF:-1, group-title="其他频道", 优漫卡通
+http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
+#EXTINF:-1, group-title="其他频道", 公视[]
+http://cloud-play.hhalloy.com/live/0be9e52678b937320897033d90bb268a.m3u8
+#EXTINF:-1, group-title="其他频道", 军旅神剧
+https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 农林卫视
+http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
+#EXTINF:-1, group-title="其他频道", 华视[]
+http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.m3u8
+#EXTINF:-1, group-title="其他频道", 南方卫视
+http://223.110.241.204:6610/gitv/live1/G_NANFANG/G_NANFANG/
+#EXTINF:-1, group-title="其他频道", 卡卡少儿
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221226097/index.m3u8
+#EXTINF:-1, group-title="其他频道", 卡酷少儿
+http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
+#EXTINF:-1, group-title="其他频道", 历史频道
+http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.m3u8
+#EXTINF:-1, group-title="其他频道", 台视综合
+http://cloud-play.hhalloy.com/live/a8905b7e88b656b83c0f5d8bf5771430.m3u8
+#EXTINF:-1, group-title="其他频道", 台视财经
+http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.m3u8
+#EXTINF:-1, group-title="其他频道", 嘉佳卡通
+http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
+#EXTINF:-1, group-title="其他频道", 国家地理
+http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.m3u8
+#EXTINF:-1, group-title="其他频道", 复仇犯罪
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 女神港片
+http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 女神系列
+https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 家庭理财
+http://223.110.245.139:80/PLTV/4/224/3221227011/index.m3u8
+#EXTINF:-1, group-title="其他频道", 寰宇综合
+http://cloud-play.hhalloy.com/live/82b78befe54a601876654e1db3e3741a.m3u8
+#EXTINF:-1, group-title="其他频道", 寰宇财经
+http://cloud-play.hhalloy.com/live/77c9bab3af161386df16ad9d8a3f3541.m3u8
+#EXTINF:-1, group-title="其他频道", 居家幸福
+http://cloud-play.hhalloy.com/live/891dfa401663622b29ab70c16ea2273e.m3u8
+#EXTINF:-1, group-title="其他频道", 峨眉电影
+http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
+#EXTINF:-1, group-title="其他频道", 康巴卫视
+http://223.110.245.139:80/PLTV/4/224/3221227008/index.m3u8
+#EXTINF:-1, group-title="其他频道", 异型怪物
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 弈坛春秋
+http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8
+#EXTINF:-1, group-title="其他频道", 徐氏兄弟
+http://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 怪物科幻
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 惊悚电影
+http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+#EXTINF:-1, group-title="其他频道", 探索频道
+http://122.155.180.8:5021/live/497
+#EXTINF:-1, group-title="其他频道", 旅游卫视
+http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+#EXTINF:-1, group-title="其他频道", 星卫娱乐
+http://cloud-play.hhalloy.com/live/4c3c2a7fe5ffc33e45bca04f983f02b0.m3u8
+#EXTINF:-1, group-title="其他频道", 星卫电影
+http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.m3u8
+#EXTINF:-1, group-title="其他频道", 未解之谜
+https://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 欢笑剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225997/index.m3u8
+#EXTINF:-1, group-title="其他频道", 欧洲新闻
+http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.m3u8
+#EXTINF:-1, group-title="其他频道", 法国时尚
+http://cloud-play.hhalloy.com/live/f737108ad740b942b32d751b0577d534.m3u8
+#EXTINF:-1, group-title="其他频道", 法治天地
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226036/index.m3u8
+#EXTINF:-1, group-title="其他频道", 港片女神
+http://aldirect.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 漫威电影
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 灾难电影
+http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8
+#EXTINF:-1, group-title="其他频道", 王晶导演
+http://tx.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 生活频道
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
+#EXTINF:-1, group-title="其他频道", 真实改编
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 科幻电影
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 纬来电影
+http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.m3u8
+#EXTINF:-1, group-title="其他频道", 置业频道
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
+#EXTINF:-1, group-title="其他频道", 美亚电影
+http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.m3u8
+#EXTINF:-1, group-title="其他频道", 美食星球
+http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.m3u8
+#EXTINF:-1, group-title="其他频道", 西方神话
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 警匪影视
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 赌博电影
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 赌片合集
+https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 都市剧场
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225902/3.m3u8
+#EXTINF:-1, group-title="其他频道", 靖天卡通
+http://cloud-play.hhalloy.com/live/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.m3u8
+#EXTINF:-1, group-title="其他频道", 靖天国际
+http://cloud-play.hhalloy.com/live/cbd38069eb1e8b2c04e356c22baac506.m3u8
+#EXTINF:-1, group-title="其他频道", 靖天戏剧
+http://cloud-play.hhalloy.com/live/4c3b3fa6235fce99e794a16e096c2e1b.m3u8
+#EXTINF:-1, group-title="其他频道", 靖天日本
+http://cloud-play.hhalloy.com/live/031b3e399e9530310abc135a0b19a8ac.m3u8
+#EXTINF:-1, group-title="其他频道", 靖天映画
+http://cloud-play.hhalloy.com/live/4364abb0a9f358049a535f4692cd49b5.m3u8
+#EXTINF:-1, group-title="其他频道", 靖天欢乐
+http://cloud-play.hhalloy.com/live/4da43dff7cd731ffb9bbe9a85b029536.m3u8
+#EXTINF:-1, group-title="其他频道", 靖天电影
+http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.m3u8
+#EXTINF:-1, group-title="其他频道", 靖天综合
+http://cloud-play.hhalloy.com/live/7a7b662db65f478451144355efa0f02b.m3u8
+#EXTINF:-1, group-title="其他频道", 靖天育乐
+http://cloud-play.hhalloy.com/live/b4b4eb536ffc346864d2dcc03adedd85.m3u8
+#EXTINF:-1, group-title="其他频道", 靖天资讯
+http://cloud-play.hhalloy.com/live/e81342a5e0ecde1ee634f19b50fab501.m3u8
+#EXTINF:-1, group-title="其他频道", 靖洋卡通
+http://cloud-play.hhalloy.com/live/8fa63f69fe90ce0597aa6d4b7c262810.m3u8
+#EXTINF:-1, group-title="其他频道", 黑莓动画
+http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1, group-title="其他频道", 黑莓电竞
+http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1, group-title="其他频道", 黑莓电竟
+http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1, group-title="其他频道", 龙华偶像
+http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.m3u8
+#EXTINF:-1, group-title="其他频道", 龙华动画
+http://cloud-play.hhalloy.com/live/4a3c4fbd39ddf82979cf3ecf3cd942c8.m3u8
+#EXTINF:-1, group-title="其他频道", 龙华影剧
+http://cloud-play.hhalloy.com/live/d2e1d697b31906f91d7e19a5f06f64ed.m3u8
+#EXTINF:-1, group-title="其他频道", 龙华戏剧
+http://cloud-play.hhalloy.com/live/b40ec839440a97d24d0aee0c69d186a1.m3u8
+#EXTINF:-1, group-title="其他频道", 龙华洋片
+http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.m3u8
+#EXTINF:-1, group-title="其他频道", 龙华电影
+http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.m3u8
+#EXTINF:-1, group-title="其他频道", 龙华经典
+http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.m3u8
+#EXTINF:-1, group-title="其他频道", @TV娱乐
+http://live3.nty.tv189.com/live/tm-eylty-800k.m3u8
+#EXTINF:-1, group-title="其他频道", @TV综艺
+http://ltetp3.tv189.com/live/tm-izyty-800k.m3u8
+#EXTINF:-1, group-title="其他频道", AMC日舞
+http://cloud-play.hhalloy.com/live/40d0812307cd389be76c358de7f4913e.m3u8
+#EXTINF:-1, group-title="其他频道", CETV1
+http://223.110.241.204:6610/gitv/live1/G_CETV-1/G_CETV-1/
+#EXTINF:-1, group-title="其他频道", CETV2
+http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/
+#EXTINF:-1, group-title="其他频道", CETV3
+http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/
+#EXTINF:-1, group-title="其他频道", CETV4
+http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/
+#EXTINF:-1, group-title="其他频道", CRIME
+http://cloud-play.hhalloy.com/live/3b19a19852e7bdc6b6f238108c94cb82.m3u8
+#EXTINF:-1, group-title="其他频道", ET综合台
+http://cloud-play.hhalloy.com/live/f6e19af652637cfde3c0f5d34822b4b5.m3u8
+#EXTINF:-1, group-title="其他频道", NHK[]
+http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.m3u8
+#EXTINF:-1, group-title="其他频道", TVB神剧
+http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+#EXTINF:-1, group-title="其他频道", 东风37台
+http://cloud-play.hhalloy.com/live/0b2e19ee2374470b5dede1013afcb4b5.m3u8
+#EXTINF:-1, group-title="其他频道", 五福星电影
+http://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 公视3[]
+http://cloud-play.hhalloy.com/live/514590fdb3ba8e3f2c3a15dd13037f31.m3u8
+#EXTINF:-1, group-title="其他频道", 华艺影剧台
+http://cloud-play.hhalloy.com/live/49d33b7521ceef2115572e8906e9f906.m3u8
+#EXTINF:-1, group-title="其他频道", 卫视合家欢
+http://cloud-play.hhalloy.com/live/277056149034cc5fb133537bc411c2c9.m3u8
+#EXTINF:-1, group-title="其他频道", 卫视洋片台
+http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.m3u8
+#EXTINF:-1, group-title="其他频道", 卫视电影台
+http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.m3u8
+#EXTINF:-1, group-title="其他频道", 历史频道2
+http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.m3u8
+#EXTINF:-1, group-title="其他频道", 国学与家道
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226392/index.m3u8
+#EXTINF:-1, group-title="其他频道", 宝莲灯前传
+http://js.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 少年包青天
+http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 彩昌影剧台
+http://cloud-play.hhalloy.com/live/b93ac92b703885f3cfe39bad8aa689d1.m3u8
+#EXTINF:-1, group-title="其他频道", 影视剧频道
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8
+#EXTINF:-1, group-title="其他频道", 影迷电影台
+http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.m3u8
+#EXTINF:-1, group-title="其他频道", 影迷纪实台
+http://cloud-play.hhalloy.com/live/a1d2d2be053776bb01c1aac37ac2dee4.m3u8
+#EXTINF:-1, group-title="其他频道", 斯坦森电影
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 智林体育台
+http://cloud-play.hhalloy.com/live/12b7289a05d4cb3c2b79f38b030e2548.m3u8
+#EXTINF:-1, group-title="其他频道", 曼迪日本台
+http://cloud-play.hhalloy.com/live/d9445086fd2dd474087674f638f2a8ed.m3u8
+#EXTINF:-1, group-title="其他频道", 梁朝伟电影
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 梦工厂动画
+http://cloud-play.hhalloy.com/live/aae9c139f056e6c003448ba1e4908ee3.m3u8
+#EXTINF:-1, group-title="其他频道", 爱尔达影视
+http://cloud-play.hhalloy.com/live/0916fef64c4baab95f7097d001e4c27e.m3u8
+#EXTINF:-1, group-title="其他频道", 爱尔达综合
+http://cloud-play.hhalloy.com/live/c614a26c0e0fb521c5cdfa10ed7f2089.m3u8
+#EXTINF:-1, group-title="其他频道", 纬来精彩台
+http://cloud-play.hhalloy.com/live/c311c72c22313d2991be335ea4872f46.m3u8
+#EXTINF:-1, group-title="其他频道", 考古系列片
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 达西文频道
+http://cloud-play.hhalloy.com/live/6d5a837a6f42e9d82be9243e51a91d50.m3u8
+#EXTINF:-1, group-title="其他频道", 迪斯尼卡通
+http://cloud-play.hhalloy.com/live/198038b134ad459d9cc251038c74685a.m3u8
+#EXTINF:-1, group-title="其他频道", 陈翔六点半
+http://tx.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 韩国KTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 韩国娱乐台
+http://cloud-play.hhalloy.com/live/8ae61414f7e2972598956105e2e9969d.m3u8
+#EXTINF:-1, group-title="其他频道", 高清电影2
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", ANIMAX
+http://cloud-play.hhalloy.com/live/13b6c6ecbb388c105fd9d98338162abb.m3u8
+#EXTINF:-1, group-title="其他频道", BabyTV
+http://cloud-play.hhalloy.com/live/d7ede3e748413a7ad065d29dbe542149.m3u8
+#EXTINF:-1, group-title="其他频道", DMAX[]
+http://cloud-play.hhalloy.com/live/41a76576ae78436eb0951f2aee0c9bda.m3u8
+#EXTINF:-1, group-title="其他频道", HITS[]
+http://cloud-play.hhalloy.com/live/e6d6d3927102ce6e0e99187b52946497.m3u8
+#EXTINF:-1, group-title="其他频道", IPTV法治
+http://117.156.28.119/270000001111/1110000111/index.m3u8
+#EXTINF:-1, group-title="其他频道", Outoor
+http://cloud-play.hhalloy.com/live/fa1bc78d17a433dfd3214271efe7e82b.m3u8
+#EXTINF:-1, group-title="其他频道", TVB J2
+http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.m3u8
+#EXTINF:-1, group-title="其他频道", TVB 功夫
+http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.m3u8
+#EXTINF:-1, group-title="其他频道", TVB 星河
+http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.m3u8
+#EXTINF:-1, group-title="其他频道", TVBS[]
+http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.m3u8
+#EXTINF:-1, group-title="其他频道", 东森幼幼[]
+http://cloud-play.hhalloy.com/live/0c0a03db510687f73c455afcc220386b.m3u8
+#EXTINF:-1, group-title="其他频道", 东森戏剧[]
+http://cloud-play.hhalloy.com/live/17cdea424a288175c834060c58b3bb4e.m3u8
+#EXTINF:-1, group-title="其他频道", 东森新闻[]
+http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.m3u8
+#EXTINF:-1, group-title="其他频道", 东森洋片[]
+http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.m3u8
+#EXTINF:-1, group-title="其他频道", 东森电影[]
+http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.m3u8
+#EXTINF:-1, group-title="其他频道", 东森综合[]
+http://cloud-play.hhalloy.com/live/7485194388c0ca1d43a664701afb2ff2.m3u8
+#EXTINF:-1, group-title="其他频道", 东森超视[]
+http://cloud-play.hhalloy.com/live/47d46d26bba55dd674454ad46c569ffa.m3u8
+#EXTINF:-1, group-title="其他频道", 中国气象频道
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
+#EXTINF:-1, group-title="其他频道", 中天娱乐[]
+http://cloud-play.hhalloy.com/live/25ea449d554a16ec584e82d039065e5f.m3u8
+#EXTINF:-1, group-title="其他频道", 中天新闻[]
+http://cloud-play.hhalloy.com/live/e1a397539e76f45bbbf39d1467024aa3.m3u8
+#EXTINF:-1, group-title="其他频道", 中视新闻[]
+http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
+#EXTINF:-1, group-title="其他频道", 人文地理记录
+http://117.158.206.60:9080/live/renwendili.m3u8
+#EXTINF:-1, group-title="其他频道", 八大娱乐[]
+http://cloud-play.hhalloy.com/live/31c5b2c0fa7ac37b2e1447befb076d08.m3u8
+#EXTINF:-1, group-title="其他频道", 八大戏剧[]
+http://cloud-play.hhalloy.com/live/6d7d7a9c22ba9aa4e411e3f7567763d8.m3u8
+#EXTINF:-1, group-title="其他频道", 八大第一[]
+http://cloud-play.hhalloy.com/live/5e147a8d04ab43725d40e72fd7169952.m3u8
+#EXTINF:-1, group-title="其他频道", 八大综合[]
+http://cloud-play.hhalloy.com/live/a26d25ad9eaabca42fa6d526199d61e5.m3u8
+#EXTINF:-1, group-title="其他频道", 动物星球[]
+http://cloud-play.hhalloy.com/live/eb7d8081fb5400bb7bfa08c8bcd8c45d.m3u8
+#EXTINF:-1, group-title="其他频道", 博斯无限[]
+http://cloud-play.hhalloy.com/live/8c9a98717ee9e5136636c3bedbb852b8.m3u8
+#EXTINF:-1, group-title="其他频道", 博斯网球[]
+http://cloud-play.hhalloy.com/live/cf415a2419c61638eefa5eb8c5a65922.m3u8
+#EXTINF:-1, group-title="其他频道", 博斯魅力[]
+http://cloud-play.hhalloy.com/live/906ff5c1e590fdc0f41744077f56672a.m3u8
+#EXTINF:-1, group-title="其他频道", 国兴卫视[]
+http://cloud-play.hhalloy.com/live/148acbf5aac2d7a9afc4b6ab6e8f05ec.m3u8
+#EXTINF:-1, group-title="其他频道", 国家地理悠人
+http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.m3u8
+#EXTINF:-1, group-title="其他频道", 国家地理野生
+http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.m3u8
+#EXTINF:-1, group-title="其他频道", 好莱坞电影2
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 好莱坞电影3
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 寰宇新闻2台
+http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.m3u8
+#EXTINF:-1, group-title="其他频道", 寰宇新闻[]
+http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.m3u8
+#EXTINF:-1, group-title="其他频道", 岳云鹏 相声
+http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 我的欧洲电影
+http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.m3u8
+#EXTINF:-1, group-title="其他频道", 欧洲体育[]
+http://cloud-play.hhalloy.com/live/96681c92588f5254e1c9f8fcb41e9d64.m3u8
+#EXTINF:-1, group-title="其他频道", 港产恐咘搞笑
+http://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 纬来体育[]
+http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.m3u8
+#EXTINF:-1, group-title="其他频道", 纬来戏剧[]
+http://cloud-play.hhalloy.com/live/82605f105052ccaef7bb5d55ebc1341d.m3u8
+#EXTINF:-1, group-title="其他频道", 纬来日本[]
+http://cloud-play.hhalloy.com/live/8bb9e07d9ed0c8bccd750b0f15206b73.m3u8
+#EXTINF:-1, group-title="其他频道", 纬来综合[]
+http://cloud-play.hhalloy.com/live/932044d200ab730968a8f9bc67feaef5.m3u8
+#EXTINF:-1, group-title="其他频道", 纬来育乐[]
+http://cloud-play.hhalloy.com/live/5cd65f73313b022253084c489a6705c8.m3u8
+#EXTINF:-1, group-title="其他频道", 舌尖上的中国
+http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 贝爷荒野频道
+http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 赵本山 小品
+http://js.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 非凡新闻[]
+http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.m3u8
+#EXTINF:-1, group-title="其他频道", 高点综合[]
+http://cloud-play.hhalloy.com/live/f11ea1c1918059c58b42c637fa9dc678.m3u8
+#EXTINF:-1, group-title="其他频道", 高点育乐[]
+http://cloud-play.hhalloy.com/live/ab3024fd5d5b0e84cbcd0bc0085cf043.m3u8
+#EXTINF:-1, group-title="其他频道", BesTV超级
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:-1, group-title="其他频道", CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1, group-title="其他频道", CINEMAX
+http://cloud-play.hhalloy.com/live/9bece52b2f72795cc2f588f3d9e4eed3.m3u8
+#EXTINF:-1, group-title="其他频道", JET综合[]
+http://cloud-play.hhalloy.com/live/c4fcaea7013c6b1d6aef9f1d0e99871e.m3u8
+#EXTINF:-1, group-title="其他频道", LUXE.TV
+http://cloud-play.hhalloy.com/live/5eb27870debdb04d89a6246b163c2da5.m3u8
+#EXTINF:-1, group-title="其他频道", MOMO亲子台
+http://cloud-play.hhalloy.com/live/0c795e6e7f8e067dd4110a57375a71b9.m3u8
+#EXTINF:-1, group-title="其他频道", My kids
+http://cloud-play.hhalloy.com/live/9bb01fa9902e14cd5811f5474283171b.m3u8
+#EXTINF:-1, group-title="其他频道", NICK 卡通
+http://cloud-play.hhalloy.com/live/a81b6e417028b6d72ed3e6ee7c42619b.m3u8
+#EXTINF:-1, group-title="其他频道", NewTV搏击
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
+#EXTINF:-1, group-title="其他频道", TVB 明珠台
+http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.m3u8
+#EXTINF:-1, group-title="其他频道", TVB 翡翠台
+http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.m3u8
+#EXTINF:-1, group-title="其他频道", TVBS精彩台
+http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.m3u8
+#EXTINF:-1, group-title="其他频道", 三立都会台[]
+http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.m3u8
+#EXTINF:-1, group-title="其他频道", 亚洲旅游台[]
+http://cloud-play.hhalloy.com/live/a7003032346b06ad6a610ce1751be6a4.m3u8
+#EXTINF:-1, group-title="其他频道", 博斯运动1[]
+http://cloud-play.hhalloy.com/live/1cebe1e25e9c69e2ed2e1e6012aeb2d3.m3u8
+#EXTINF:-1, group-title="其他频道", 博斯运动2[]
+http://cloud-play.hhalloy.com/live/c71aa3f9ef9e92531a06863b9a731849.m3u8
+#EXTINF:-1, group-title="其他频道", 博斯高球1[]
+http://cloud-play.hhalloy.com/live/4870a14ca0496e434825594643eea173.m3u8
+#EXTINF:-1, group-title="其他频道", 博斯高球2[]
+http://cloud-play.hhalloy.com/live/9dd0941038e16fd8207f4c485c2fd34b.m3u8
+#EXTINF:-1, group-title="其他频道", 卫视中文台[]
+http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.m3u8
+#EXTINF:-1, group-title="其他频道", 好莱坞动作大片
+http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 好莱坞电影[]
+http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.m3u8
+#EXTINF:-1, group-title="其他频道", 晴彩维吾尔电影
+http://202.107.188.152:5002/qincaiweiwuermovie_hdcq-1.m3u8?token=XbZtKv62bSrXtm0q_yoongoo&amp;amp;ct=wifi&amp;amp;gid=qincaiweiwuermovie_hdcq
+#EXTINF:-1, group-title="其他频道", 福克斯家庭影院
+http://cloud-play.hhalloy.com/live/440b3d3c474813d7ead7d3a795978e69.m3u8
+#EXTINF:-1, group-title="其他频道", 铁齿铜牙纪晓岚
+http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", CNN NEWS
+http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.m3u8
+#EXTINF:-1, group-title="其他频道", ELTV生活英语
+http://cloud-play.hhalloy.com/live/094cb0c295f8bde2de59d5f421230dbd.m3u8
+#EXTINF:-1, group-title="其他频道", FOX News
+http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.m3u8
+#EXTINF:-1, group-title="其他频道", HBO Hits
+http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.m3u8
+#EXTINF:-1, group-title="其他频道", I-FUN动漫台
+http://cloud-play.hhalloy.com/live/9cd9d87c4ccbf7f28284990a1c3d4569.m3u8
+#EXTINF:-1, group-title="其他频道", MTV Live
+http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.m3u8
+#EXTINF:-1, group-title="其他频道", MY101综合台
+http://cloud-play.hhalloy.com/live/6c4078ac7601f5787aef2f8b88dd449c.m3u8
+#EXTINF:-1, group-title="其他频道", SKY NEWS
+http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.m3u8
+#EXTINF:-1, group-title="其他频道", Smart知识台
+http://cloud-play.hhalloy.com/live/641befebabe286484103e2980e05694d.m3u8
+#EXTINF:-1, group-title="其他频道", 东森财经新闻[]
+http://cloud-play.hhalloy.com/live/10e21c98ff74745141a386d91da24c56.m3u8
+#EXTINF:-1, group-title="其他频道", 年代MUCH[]
+http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.m3u8
+#EXTINF:-1, group-title="其他频道", 徐老师LOL故事
+http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 新加坡亚洲新闻台
+http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.m3u8
+#EXTINF:-1, group-title="其他频道", 西游记(86版)
+https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", BBC earth
+http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.m3u8
+#EXTINF:-1, group-title="其他频道", Babyfirst
+http://cloud-play.hhalloy.com/live/efd423af0e64fd82c1cc29e909eb4303.m3u8
+#EXTINF:-1, group-title="其他频道", BesTV中国功夫
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226935/index.m3u8
+#EXTINF:-1, group-title="其他频道", Channel V
+http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.m3u8
+#EXTINF:-1, group-title="其他频道", EYE TV戏剧台
+http://cloud-play.hhalloy.com/live/69a400e45b6fbd61c8182736ec80e013.m3u8
+#EXTINF:-1, group-title="其他频道", EYE TV旅游台
+http://cloud-play.hhalloy.com/live/6d6535e5e44f88df204129354e77b2a7.m3u8
+#EXTINF:-1, group-title="其他频道", FOX CRIME
+http://cloud-play.hhalloy.com/live/833d6cdeed807b755e6c449832b26621.m3u8
+#EXTINF:-1, group-title="其他频道", Hakkatv[]
+http://cloud-play.hhalloy.com/live/9535868a6a173399d3913cab3bb61675.m3u8
+#EXTINF:-1, group-title="其他频道", LIFE TIME
+http://cloud-play.hhalloy.com/live/d8ab211a4f23fe8e143757d13ade9b32.m3u8
+#EXTINF:-1, group-title="其他频道", NHK WORLD
+http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.m3u8
+#EXTINF:-1, group-title="其他频道", NewTV健康有约
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:-1, group-title="其他频道", NewTV家庭剧场
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1, group-title="其他频道", NewTV明星大片
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1, group-title="其他频道", NewTV潮妈辣婆
+http://223.110.245.170/PLTV/3/224/3221226983/index.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv动作电影
+http://183.207.249.15/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv惊悚悬疑
+http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv精品体育
+http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv精品大剧
+http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv精品电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv精品记录
+http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv金牌综艺
+http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8
+#EXTINF:-1, group-title="其他频道", TLC旅游生活[]
+http://cloud-play.hhalloy.com/live/2389cbac5b421dd5b069a232f3d321bc.m3u8
+#EXTINF:-1, group-title="其他频道", TV5 MONDE
+http://cloud-play.hhalloy.com/live/a9dd7099d0abf47c5e17f8038234df22.m3u8
+#EXTINF:-1, group-title="其他频道", TVBS欢乐台[]
+http://cloud-play.hhalloy.com/live/5e81e3b3e2d8b887db0bc2976558c7ea.m3u8
+#EXTINF:-1, group-title="其他频道", Warner TV
+http://cloud-play.hhalloy.com/live/a645bdeafb1216c23352144c3505bd8c.m3u8
+#EXTINF:-1, group-title="其他频道", 新乌龙院之笑闹江湖
+http://zuikzy.51moca.com/2018/09/09/IJZeVjIQVxdRmzig/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 玉蒲团3之官人我要
+http://yun.zxziyuan-yun.com/20180127/bdQFIeoH/index.m3u8
+#EXTINF:-1, group-title="其他频道", HBO Family
+http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.m3u8
+#EXTINF:-1, group-title="其他频道", 华视教育体育文化[]
+http://cloud-play.hhalloy.com/live/f167f80500ab6910a8740ab31e9963c3.m3u8
+#EXTINF:-1, group-title="其他频道", BoomErang卡通
+http://cloud-play.hhalloy.com/live/65796ce70deacc164cf2eb854ad43994.m3u8
+#EXTINF:-1, group-title="其他频道", Discovery[]
+http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.m3u8
+#EXTINF:-1, group-title="其他频道", LS TIME龙祥电影
+http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.m3u8
+#EXTINF:-1, group-title="其他频道", Bloombreg TV
+http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.m3u8
+#EXTINF:-1, group-title="其他频道", CatchPlay电影台
+http://cloud-play.hhalloy.com/live/65e80e1e0cd763a0302d7aa2a1135b0b.m3u8
+#EXTINF:-1, group-title="其他频道", Cinema World
+http://cloud-play.hhalloy.com/live/357252de83720e30d40c00bfba69c497.m3u8
+#EXTINF:-1, group-title="其他频道", FOX MOVIES[]
+http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.m3u8
+#EXTINF:-1, group-title="其他频道", FOX SPORTS 3
+http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.m3u8
+#EXTINF:-1, group-title="其他频道", FOX SPORTS[]
+http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.m3u8
+#EXTINF:-1, group-title="其他频道", TITV原住民电视台[]
+http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.m3u8
+#EXTINF:-1, group-title="其他频道", TRACE Sports
+http://cloud-play.hhalloy.com/live/3b88f91a420e6cd59cd034ccf2a05c10.m3u8
+#EXTINF:-1, group-title="其他频道", 笑傲江湖 霍建华陈乔恩版
+https://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", BBC Lifestyle
+http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.m3u8
+#EXTINF:-1, group-title="其他频道", Discovery科学[]
+http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.m3u8
+#EXTINF:-1, group-title="其他频道", FOX SPORTS2[]
+http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.m3u8
+#EXTINF:-1, group-title="其他频道", HBO Signature
+http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.m3u8
+#EXTINF:-1, group-title="其他频道", BBC World News
+http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.m3u8
+#EXTINF:-1, group-title="其他频道", Discovery Asia
+http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.m3u8
+#EXTINF:-1, group-title="其他频道", Travel Channel
+http://cloud-play.hhalloy.com/live/2f1e104da16f66b93ad4d873326b19eb.m3u8
+#EXTINF:-1, group-title="其他频道", WaKaWaka Japan
+http://cloud-play.hhalloy.com/live/6fab3a8298ba5097394c5fdcdea8ea81.m3u8
+#EXTINF:-1, group-title="其他频道", E!Entertainment
+http://cloud-play.hhalloy.com/live/284df67673a590b64593e0127029b0b2.m3u8
+#EXTINF:-1, group-title="其他频道", BLUE ANT EXTREME
+http://cloud-play.hhalloy.com/live/7b3b2e1d0006091415635226a2ac5d86.m3u8
+#EXTINF:-1, group-title="其他频道", ELEVVEN SPORTS 2
+http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830b.m3u8
+#EXTINF:-1, group-title="其他频道", ELEVVEN SPORTS PLUS
+http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.m3u8
+#EXTINF:-1, group-title="其他频道", BLUE ANT ENTERTAINMET
+http://cloud-play.hhalloy.com/live/41005bf306743766c5affb055bc5c164.m3u8
