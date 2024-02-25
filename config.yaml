@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: Jack's blog
+title: GWF blog
 copyright: jackadam1981@hotmail.com
 
 # languages:
@@ -64,7 +64,7 @@ params:
 
     sidebar:
         emoji: 🦈
-        subtitle: 随便写写，当笔记用.
+        subtitle: 长城防火墙笔记
         avatar:
             enabled: true
             local: true
