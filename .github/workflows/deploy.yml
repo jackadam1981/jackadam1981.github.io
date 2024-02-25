@@ -32,4 +32,5 @@ jobs:
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
+          publish_branch: main 
           external_repository: jackadam1981/jackadam1981.github.io
