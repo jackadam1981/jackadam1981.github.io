@@ -37,4 +37,6 @@
 &lt;h2 id="分流">分流&lt;/h2>
 &lt;p>&lt;a class="link" href="https://github.com/lmc999/auto-add-routes" target="_blank" rel="noopener"
 >lmc999/auto-add-routes: China Route for VPN (github.com)&lt;/a>&lt;/p>
-&lt;p>这里有大佬做了分流脚本，可以配合wireguard来使用。&lt;/p></description></item></channel></rss>
+&lt;p>这里有大佬做了分流脚本，可以配合wireguard来使用。
+不做分流，你连路由器都无法访问，更别说内网的服务了。
+必须分流。&lt;/p></description></item></channel></rss>
