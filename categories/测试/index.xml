@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>测试 on GWF blog</title><link>https://example.com/categories/%E6%B5%8B%E8%AF%95/</link><description>Recent content in 测试 on GWF blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>jackadam1981@hotmail.com</copyright><lastBuildDate>Wed, 28 Feb 2024 10:16:19 +0800</lastBuildDate><atom:link href="https://example.com/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml"/><item><title>20240228</title><link>https://example.com/p/20240228/</link><pubDate>Wed, 28 Feb 2024 10:16:19 +0800</pubDate><guid>https://example.com/p/20240228/</guid><description>&lt;h2 id="简介">简介：&lt;/h2>
+&lt;p>最近总是用cloudflare的WARP。使用的是wireguard客户端，使用warp的节点。&lt;/p>
+&lt;p>介绍一下使用要点吧。&lt;/p>
+&lt;h2 id="安装">安装：&lt;/h2>
+&lt;p>简单点，可以直接安装wireguard客户端，但是默认客户端是在线安装模式，又被墙了，那么就下载离线安装包把。&lt;/p>
+&lt;p>&lt;a class="link" href="https://download.wireguard.com/windows-client/" target="_blank" rel="noopener"
+>WireGuard for Windows Downloads&lt;/a>&lt;/p>
+&lt;p>我也转一下吧，方便菜鸟。&lt;/p>
+&lt;p>&lt;a class="link" href="%5cdownload%5cwireguard-amd64-0.5.3.msi" >Msi install for amd64&lt;/a>
+&lt;a class="link" href="%5cdownload%5cwireguard-arm64-0.5.3.msi" >Msi install for arm64&lt;/a>
+&lt;a class="link" href="%5cdownload%5cwireguard-x86-0.5.3.msi" >Msi install for x86&lt;/a>&lt;/p>
+&lt;h2 id="创建节点">创建节点&lt;/h2>
+&lt;p>WARP客户端现在可以不装了，直接replit在线生成节点挺好的。&lt;/p>
+&lt;p>生成的还正是wireguard配置文件。&lt;/p>
+&lt;p>&lt;a class="link" href="https://replit.com/@misaka-blog" target="_blank" rel="noopener"
+>misaka-blog (MisakaNo の 小破站) - Replit&lt;/a> 他家好几个脚本呢，都是在线的。&lt;/p>
+&lt;p>下面是生成wireguard的脚本&lt;/p>
+&lt;p>&lt;a class="link" href="https://replit.com/@misaka-blog/warpgo-profile-generator?v=1" target="_blank" rel="noopener"
+>warpgo-profile-generator - Replit&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://replit.com/@misaka-blog/wgcf-profile-generator?v=1" target="_blank" rel="noopener"
+>wgcf-profile-generator - Replit&lt;/a>&lt;/p>
+&lt;p>fork &amp;amp; run 就能获取。记得选免费账户，1.&lt;/p>
+&lt;p>
+&lt;img src="https://example.com/./image/20240228/1709089295666.png" loading="lazy" alt="1709089295666" >&lt;/p>
+&lt;p>这个域名估计墙了，得优选一下IP。&lt;/p>
+&lt;h2 id="优选ip">优选IP&lt;/h2>
+&lt;p>&lt;a class="link" href="https://github.com/yonggekkk/warp-yg" target="_blank" rel="noopener"
+>yonggekkk/warp-yg: warp多功能一键脚本，查看VPS本地IP、netflix、chatgpt(网页与客户端)是否解锁等情况、endpoint对端优选IP等功能，VPS平台与Replit平台无限生成warp配置文件 (github.com)&lt;/a>&lt;/p>
+&lt;p>这里有勇哥的win端自选IP脚本，优选以后，替换配置文件的Endpoint。&lt;/p>
+&lt;h2 id="使用wireguard">使用wireguard&lt;/h2>
+&lt;p>导入隧道文件 *.conf&lt;/p>
+&lt;p>刚才获取的信息，保存为 任意文件名.conf，导入进去，连接即可。&lt;/p>
+&lt;p>或者手机也装wireguard，直接扫描二维码，链接即可。&lt;/p>
+&lt;h2 id="分流">分流&lt;/h2>
+&lt;p>&lt;a class="link" href="https://github.com/lmc999/auto-add-routes" target="_blank" rel="noopener"
+>lmc999/auto-add-routes: China Route for VPN (github.com)&lt;/a>&lt;/p>
+&lt;p>这里有大佬做了分流脚本，可以配合wireguard来使用。&lt;/p></description></item></channel></rss>

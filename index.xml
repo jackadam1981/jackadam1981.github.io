@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GWF blog</title><link>https://example.com/</link><description>Recent content on GWF blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>jackadam1981@hotmail.com</copyright><lastBuildDate>Wed, 28 Feb 2024 10:16:19 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>20240228</title><link>https://example.com/p/20240228/</link><pubDate>Wed, 28 Feb 2024 10:16:19 +0800</pubDate><guid>https://example.com/p/20240228/</guid><description>&lt;h2 id="简介">简介：&lt;/h2>
+&lt;p>最近总是用cloudflare的WARP。使用的是wireguard客户端，使用warp的节点。&lt;/p>
+&lt;p>介绍一下使用要点吧。&lt;/p>
+&lt;h2 id="安装">安装：&lt;/h2>
+&lt;p>简单点，可以直接安装wireguard客户端，但是默认客户端是在线安装模式，又被墙了，那么就下载离线安装包把。&lt;/p>
+&lt;p>&lt;a class="link" href="https://download.wireguard.com/windows-client/" target="_blank" rel="noopener"
+>WireGuard for Windows Downloads&lt;/a>&lt;/p>
+&lt;p>我也转一下吧，方便菜鸟。&lt;/p>
+&lt;p>&lt;a class="link" href="%5cdownload%5cwireguard-amd64-0.5.3.msi" >Msi install for amd64&lt;/a>
+&lt;a class="link" href="%5cdownload%5cwireguard-arm64-0.5.3.msi" >Msi install for arm64&lt;/a>
+&lt;a class="link" href="%5cdownload%5cwireguard-x86-0.5.3.msi" >Msi install for x86&lt;/a>&lt;/p>
+&lt;h2 id="创建节点">创建节点&lt;/h2>
+&lt;p>WARP客户端现在可以不装了，直接replit在线生成节点挺好的。&lt;/p>
+&lt;p>生成的还正是wireguard配置文件。&lt;/p>
+&lt;p>&lt;a class="link" href="https://replit.com/@misaka-blog" target="_blank" rel="noopener"
+>misaka-blog (MisakaNo の 小破站) - Replit&lt;/a> 他家好几个脚本呢，都是在线的。&lt;/p>
+&lt;p>下面是生成wireguard的脚本&lt;/p>
+&lt;p>&lt;a class="link" href="https://replit.com/@misaka-blog/warpgo-profile-generator?v=1" target="_blank" rel="noopener"
+>warpgo-profile-generator - Replit&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://replit.com/@misaka-blog/wgcf-profile-generator?v=1" target="_blank" rel="noopener"
+>wgcf-profile-generator - Replit&lt;/a>&lt;/p>
+&lt;p>fork &amp;amp; run 就能获取。记得选免费账户，1.&lt;/p>
+&lt;p>
+&lt;img src="https://example.com/./image/20240228/1709089295666.png" loading="lazy" alt="1709089295666" >&lt;/p>
+&lt;p>这个域名估计墙了，得优选一下IP。&lt;/p>
+&lt;h2 id="优选ip">优选IP&lt;/h2>
+&lt;p>&lt;a class="link" href="https://github.com/yonggekkk/warp-yg" target="_blank" rel="noopener"
+>yonggekkk/warp-yg: warp多功能一键脚本，查看VPS本地IP、netflix、chatgpt(网页与客户端)是否解锁等情况、endpoint对端优选IP等功能，VPS平台与Replit平台无限生成warp配置文件 (github.com)&lt;/a>&lt;/p>
+&lt;p>这里有勇哥的win端自选IP脚本，优选以后，替换配置文件的Endpoint。&lt;/p>
+&lt;h2 id="使用wireguard">使用wireguard&lt;/h2>
+&lt;p>导入隧道文件 *.conf&lt;/p>
+&lt;p>刚才获取的信息，保存为 任意文件名.conf，导入进去，连接即可。&lt;/p>
+&lt;p>或者手机也装wireguard，直接扫描二维码，链接即可。&lt;/p>
+&lt;h2 id="分流">分流&lt;/h2>
+&lt;p>&lt;a class="link" href="https://github.com/lmc999/auto-add-routes" target="_blank" rel="noopener"
+>lmc999/auto-add-routes: China Route for VPN (github.com)&lt;/a>&lt;/p>
+&lt;p>这里有大佬做了分流脚本，可以配合wireguard来使用。&lt;/p></description></item><item><title>GWF主流破解方法</title><link>https://example.com/p/gwf%E4%B8%BB%E6%B5%81%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95/</link><pubDate>Sun, 25 Feb 2024 21:34:46 +0800</pubDate><guid>https://example.com/p/gwf%E4%B8%BB%E6%B5%81%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95/</guid><description>&lt;h1 id="主流翻墙方法">主流翻墙方法：&lt;/h1>
+&lt;h2 id="基础知识">基础知识：&lt;/h2>
+&lt;h3 id="节点">节点：&lt;/h3>
+&lt;p>翻墙出去，简单的道理就是，不允许你去访问google，但是允许你访问cloudflare，而cloudflare和google之间是不受限制的，那么你就可以通过cloudflare去访问google，cloudflare就是节点，代替你去访问受限资源的服务器。&lt;/p>
+&lt;h3 id="机场">机场：&lt;/h3>
+&lt;p>确实不是每个人都能看懂建立节点的教程，即使有免费的cloudflare，大部分人也不会建立节点，代建节点，保证服务，出售流量的网站，就叫机场。他租用服务器，建好节点，供用户使用。&lt;/p>
+&lt;h3 id="订阅">订阅：&lt;/h3>
+&lt;p>由于GWF经常升级，屏蔽各个服务器，加上节点大量使用流量，造成节点的稳定性一直不是特别高，自建的会好一些，还有封IP，换IP等操作，小白用户使用机场时，如何快速便捷的获取节点更新信息，就产生了订阅，一个订阅地址，可以直接获取最新的节点信息，这就是订阅。&lt;/p>
+&lt;h3 id="cf">CF：&lt;/h3>
+&lt;p>cloudflare的简称，大好人呀，最近各种东西，都是他家的免费服务。我薅的不厉害，就是用WARP，或者WireGuard使用WARP节点。&lt;/p>
+&lt;h2 id="vless">VLESS&lt;/h2>
+&lt;p>一种代理协议，是你和节点之间通信的协议。已经有大神将vless改写到cloudflare的Wroker,pages里面了。&lt;/p>
+&lt;h2 id="一单机使用">一：单机使用&lt;/h2>
+&lt;p>主流的单机使用有很多软件可以使用，我在用的比较多的就是WARP，WireGuard。当然也有CF VLESS我没怎么用。&lt;/p>
+&lt;p>WARP最简单了，直接访问&lt;a class="link" href="https://1.1.1.1/" target="_blank" rel="noopener"
+>1.1.1.1 — The free app that makes your Internet faster.&lt;/a>，下载客户端，自动注册生成，就可以用了。当然可能连不上，就需要一个优选IP。&lt;/p>
+&lt;p>&lt;a class="link" href="https://github.com/yonggekkk/warp-yg" target="_blank" rel="noopener"
+>yonggekkk/warp-yg: warp多功能一键脚本，查看VPS本地IP、netflix、chatgpt(网页与客户端)是否解锁等情况、endpoint对端优选IP等功能，VPS平台与Replit平台无限生成warp配置文件 (github.com)&lt;/a>&lt;/p>
+&lt;p>当然了，使用WARP节点，是全局代理，非常不方便，即使本地局域网，都要代理出去，所以有了这个：&lt;/p>
+&lt;p>&lt;a class="link" href="https://github.com/lmc999/auto-add-routes" target="_blank" rel="noopener"
+>lmc999/auto-add-routes: China Route for VPN (github.com)&lt;/a>&lt;/p>
+&lt;p>强制路由表，指定的一些IP地址，域名会被指定为默认路由，其他的才走代理节点。&lt;/p>
+&lt;p>还有clash，v2rayN，Wireguard，sing-box(暂时没有官方windows客户端。)&lt;/p>
+&lt;h2 id="二服务器使用">二：服务器使用&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gitlab.com/rwkgyg/CFwarp" target="_blank" rel="noopener"
+>甬哥侃侃侃ygkkk / CFwarp · GitLab&lt;/a>&lt;/p>
+&lt;p>这是安装脚本，比手动安装方便多了。&lt;/p>
+&lt;h2 id="二旁路由">二：旁路由&lt;/h2>
+&lt;p>一般就是openwrt+***各种软件，我比较喜欢clash系列，openclash用着也不错。&lt;/p>
+&lt;p>常见的有passwall，ss，ssr，openclash，shellclash……&lt;/p>
+&lt;h2 id="三透明网关">三：透明网关&lt;/h2>
+&lt;p>透明网关就是主路由直接安装各种软件。&lt;/p>
+&lt;h2 id="四研究方向">四：研究方向&lt;/h2>
+&lt;p>目前看自从clash删库一次以后，sing-box貌似越来越火了，那么能否使用sing-box做透明网关呢？&lt;/p>
+&lt;p>sing-box，windows的第三方客户端哪个好用呢？&lt;/p></description></item><item><title>Archives</title><link>https://example.com/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://example.com/archives/</guid><description/></item><item><title>标签</title><link>https://example.com/tags/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://example.com/tags/</guid><description/></item><item><title>分类</title><link>https://example.com/categories/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://example.com/categories/</guid><description/></item><item><title>Links</title><link>https://example.com/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://example.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/search/</guid><description/></item><item><title>关于</title><link>https://example.com/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid><description>&lt;p>This is a test page for i18n support.&lt;/p></description></item></channel></rss>

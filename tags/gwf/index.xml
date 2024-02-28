@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gwf on GWF blog</title><link>https://example.com/tags/gwf/</link><description>Recent content in Gwf on GWF blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>jackadam1981@hotmail.com</copyright><lastBuildDate>Sun, 25 Feb 2024 21:34:46 +0800</lastBuildDate><atom:link href="https://example.com/tags/gwf/index.xml" rel="self" type="application/rss+xml"/><item><title>GWF主流破解方法</title><link>https://example.com/p/gwf%E4%B8%BB%E6%B5%81%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95/</link><pubDate>Sun, 25 Feb 2024 21:34:46 +0800</pubDate><guid>https://example.com/p/gwf%E4%B8%BB%E6%B5%81%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95/</guid><description>&lt;h1 id="主流翻墙方法">主流翻墙方法：&lt;/h1>
+&lt;h2 id="基础知识">基础知识：&lt;/h2>
+&lt;h3 id="节点">节点：&lt;/h3>
+&lt;p>翻墙出去，简单的道理就是，不允许你去访问google，但是允许你访问cloudflare，而cloudflare和google之间是不受限制的，那么你就可以通过cloudflare去访问google，cloudflare就是节点，代替你去访问受限资源的服务器。&lt;/p>
+&lt;h3 id="机场">机场：&lt;/h3>
+&lt;p>确实不是每个人都能看懂建立节点的教程，即使有免费的cloudflare，大部分人也不会建立节点，代建节点，保证服务，出售流量的网站，就叫机场。他租用服务器，建好节点，供用户使用。&lt;/p>
+&lt;h3 id="订阅">订阅：&lt;/h3>
+&lt;p>由于GWF经常升级，屏蔽各个服务器，加上节点大量使用流量，造成节点的稳定性一直不是特别高，自建的会好一些，还有封IP，换IP等操作，小白用户使用机场时，如何快速便捷的获取节点更新信息，就产生了订阅，一个订阅地址，可以直接获取最新的节点信息，这就是订阅。&lt;/p>
+&lt;h3 id="cf">CF：&lt;/h3>
+&lt;p>cloudflare的简称，大好人呀，最近各种东西，都是他家的免费服务。我薅的不厉害，就是用WARP，或者WireGuard使用WARP节点。&lt;/p>
+&lt;h2 id="vless">VLESS&lt;/h2>
+&lt;p>一种代理协议，是你和节点之间通信的协议。已经有大神将vless改写到cloudflare的Wroker,pages里面了。&lt;/p>
+&lt;h2 id="一单机使用">一：单机使用&lt;/h2>
+&lt;p>主流的单机使用有很多软件可以使用，我在用的比较多的就是WARP，WireGuard。当然也有CF VLESS我没怎么用。&lt;/p>
+&lt;p>WARP最简单了，直接访问&lt;a class="link" href="https://1.1.1.1/" target="_blank" rel="noopener"
+>1.1.1.1 — The free app that makes your Internet faster.&lt;/a>，下载客户端，自动注册生成，就可以用了。当然可能连不上，就需要一个优选IP。&lt;/p>
+&lt;p>&lt;a class="link" href="https://github.com/yonggekkk/warp-yg" target="_blank" rel="noopener"
+>yonggekkk/warp-yg: warp多功能一键脚本，查看VPS本地IP、netflix、chatgpt(网页与客户端)是否解锁等情况、endpoint对端优选IP等功能，VPS平台与Replit平台无限生成warp配置文件 (github.com)&lt;/a>&lt;/p>
+&lt;p>当然了，使用WARP节点，是全局代理，非常不方便，即使本地局域网，都要代理出去，所以有了这个：&lt;/p>
+&lt;p>&lt;a class="link" href="https://github.com/lmc999/auto-add-routes" target="_blank" rel="noopener"
+>lmc999/auto-add-routes: China Route for VPN (github.com)&lt;/a>&lt;/p>
+&lt;p>强制路由表，指定的一些IP地址，域名会被指定为默认路由，其他的才走代理节点。&lt;/p>
+&lt;p>还有clash，v2rayN，Wireguard，sing-box(暂时没有官方windows客户端。)&lt;/p>
+&lt;h2 id="二服务器使用">二：服务器使用&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gitlab.com/rwkgyg/CFwarp" target="_blank" rel="noopener"
+>甬哥侃侃侃ygkkk / CFwarp · GitLab&lt;/a>&lt;/p>
+&lt;p>这是安装脚本，比手动安装方便多了。&lt;/p>
+&lt;h2 id="二旁路由">二：旁路由&lt;/h2>
+&lt;p>一般就是openwrt+***各种软件，我比较喜欢clash系列，openclash用着也不错。&lt;/p>
+&lt;p>常见的有passwall，ss，ssr，openclash，shellclash……&lt;/p>
+&lt;h2 id="三透明网关">三：透明网关&lt;/h2>
+&lt;p>透明网关就是主路由直接安装各种软件。&lt;/p>
+&lt;h2 id="四研究方向">四：研究方向&lt;/h2>
+&lt;p>目前看自从clash删库一次以后，sing-box貌似越来越火了，那么能否使用sing-box做透明网关呢？&lt;/p>
+&lt;p>sing-box，windows的第三方客户端哪个好用呢？&lt;/p></description></item></channel></rss>
