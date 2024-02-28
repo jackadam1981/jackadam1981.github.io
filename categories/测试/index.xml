@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>测试 on GWF blog</title><link>https://example.com/categories/%E6%B5%8B%E8%AF%95/</link><description>Recent content in 测试 on GWF blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>jackadam1981@hotmail.com</copyright><lastBuildDate>Wed, 28 Feb 2024 10:16:19 +0800</lastBuildDate><atom:link href="https://example.com/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml"/><item><title>20240228</title><link>https://example.com/p/20240228/</link><pubDate>Wed, 28 Feb 2024 10:16:19 +0800</pubDate><guid>https://example.com/p/20240228/</guid><description>&lt;h2 id="简介">简介：&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>测试 on GWF blog</title><link>https://example.com/categories/%E6%B5%8B%E8%AF%95/</link><description>Recent content in 测试 on GWF blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>jackadam1981@hotmail.com</copyright><lastBuildDate>Wed, 28 Feb 2024 10:16:19 +0800</lastBuildDate><atom:link href="https://example.com/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml"/><item><title>wireguard使用方法</title><link>https://example.com/p/wireguard%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link><pubDate>Wed, 28 Feb 2024 10:16:19 +0800</pubDate><guid>https://example.com/p/wireguard%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</guid><description>&lt;h2 id="简介">简介：&lt;/h2>
 &lt;p>最近总是用cloudflare的WARP。使用的是wireguard客户端，使用warp的节点。&lt;/p>
 &lt;p>介绍一下使用要点吧。&lt;/p>
 &lt;h2 id="安装">安装：&lt;/h2>
@@ -6,9 +6,12 @@
 &lt;p>&lt;a class="link" href="https://download.wireguard.com/windows-client/" target="_blank" rel="noopener"
 >WireGuard for Windows Downloads&lt;/a>&lt;/p>
 &lt;p>我也转一下吧，方便菜鸟。&lt;/p>
-&lt;p>&lt;a class="link" href="%5cdownload%5cwireguard-amd64-0.5.3.msi" >Msi install for amd64&lt;/a>
-&lt;a class="link" href="%5cdownload%5cwireguard-arm64-0.5.3.msi" >Msi install for arm64&lt;/a>
-&lt;a class="link" href="%5cdownload%5cwireguard-x86-0.5.3.msi" >Msi install for x86&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://jackadam1981.github.io/download/wireguard-amd64-0.5.3.msi" target="_blank" rel="noopener"
+>Msi install for amd64&lt;/a>
+&lt;a class="link" href="https://jackadam1981.github.io/download/wireguard-arm64-0.5.3.msi" target="_blank" rel="noopener"
+>Msi install for arm64&lt;/a>&lt;br>
+&lt;a class="link" href="https://jackadam1981.github.io/download/wireguard-x86-0.5.3.msi" target="_blank" rel="noopener"
+>Msi install for x86&lt;/a>&lt;/p>
 &lt;h2 id="创建节点">创建节点&lt;/h2>
 &lt;p>WARP客户端现在可以不装了，直接replit在线生成节点挺好的。&lt;/p>
 &lt;p>生成的还正是wireguard配置文件。&lt;/p>
